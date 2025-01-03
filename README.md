@@ -12,6 +12,7 @@ This repository contains materials and assignments from the CIS 1275 - C++ Progr
 - **Schedule Types:** Lecture/Lab
 - **Prerequisite:** MATH 1310 or higher (Minimum grade of C required)
 - **Institution:** Central New Mexico Community College
+  
 
 
 ## Learning Objectives
