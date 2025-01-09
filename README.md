@@ -5,6 +5,7 @@
 This repository contains materials and assignments from the CIS 1275 - C++ Programming I course, which I completed in 2020. This course provided a comprehensive introduction to structured programming techniques, logic, and control using C++. Key topics covered include data types, variables, arithmetic operations, control statements, basic functions, pointers, arrays, structures, and object-oriented concepts.
 
 
+
 ## Course Information
 - **Course Code:** CIS 1275
 - **Title:** C++ Programming I
